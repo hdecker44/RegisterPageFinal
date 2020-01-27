@@ -1,0 +1,39 @@
+body{
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+}
+form{
+    background-color: white;
+    text-align: center;
+    width: 250px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-top: 25px;
+    border: groove black;
+    box-shadow: 7px 10px;
+}
+.sub{
+    background-color: rgb(66,133,244);
+    color: white;
+    width: 100px;
+    border: solid black;    
+}
+.header{
+    background-color: white;
+    text-align: right; 
+    height: auto; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid black;  
+}
+.top{
+    background-color: rgb(66,133,244);
+    color: white;
+    margin-right: 5px;
+    border: solid black;
+}
+.circle{
+    border-radius: 150px;        
+}
