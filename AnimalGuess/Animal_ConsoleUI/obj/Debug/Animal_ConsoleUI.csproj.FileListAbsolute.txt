@@ -1,0 +1,8 @@
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\bin\Debug\Animal_ConsoleUI.dll
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\bin\Debug\Animal_ConsoleUI.pdb
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\bin\Debug\Animal.dll
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\bin\Debug\Animal.pdb
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\obj\Debug\Animal_ConsoleUI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\obj\Debug\Animal_ConsoleUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\obj\Debug\Animal_ConsoleUI.dll
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\Animal_ConsoleUI\obj\Debug\Animal_ConsoleUI.pdb

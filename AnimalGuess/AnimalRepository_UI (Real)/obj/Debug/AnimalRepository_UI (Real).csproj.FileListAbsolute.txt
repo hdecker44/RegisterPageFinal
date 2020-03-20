@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\bin\Debug\AnimalRepository_UI (Real).exe.config
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\bin\Debug\AnimalRepository_UI (Real).exe
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\bin\Debug\AnimalRepository_UI (Real).pdb
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\bin\Debug\Animal.dll
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\bin\Debug\Animal.pdb
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\obj\Debug\AnimalRepository_UI (Real).csproj.CopyComplete
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\obj\Debug\AnimalRepository_UI (Real).exe
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\obj\Debug\AnimalRepository_UI (Real).pdb
+C:\ElevenFiftyProjects\DOTNET\CSharpFund\AnimalRepository_UI (Real)\obj\Debug\AnimalRepository_UI (Real).csprojAssemblyReference.cache
